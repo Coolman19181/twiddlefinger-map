@@ -1,0 +1,22 @@
+-- Model
+return {[1]={surface={Top="Studs";Front="Smooth";Bottom="Inlet";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=99.00000169873238;[2]=95.00000193715096;[3]=98.00000175833702;};
+anchored=true;cancollide=true;transparency=0;texture="Plastic";position={[1]=0;[2]=-10;[3]=0;};
+locked=true;cframe={[1]=0;[2]=-10;[3]=0;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+shape="Block";size={[1]=512;[2]=20;[3]=512;};
+};
+[2]={decal={transparency=0;face=Enum.NormalId.Front;texture="http://www.roblox.com/asset/?id=18285410684";};
+surface={Top="Smooth";Front="Smooth";Bottom="Smooth";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=true;cancollide=true;transparency=0;texture="Fabric";position={[1]=-67.67129516601562;[2]=60.71663284301758;[3]=-25.968496322631836;};
+locked=false;cframe={[1]=-67.67129516601562;[2]=60.71663284301758;[3]=-25.968496322631836;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+shape="Block";size={[1]=152.75;[2]=121.43321228027344;[3]=0.001000046730041504;};
+};
+[3]={decal={transparency=0;face=Enum.NormalId.Front;texture="http://www.roblox.com/asset/?id=18223454657";};
+surface={Top="Smooth";Front="Smooth";Bottom="Smooth";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=true;cancollide=true;transparency=0;texture="Fabric";position={[1]=-180.67129516601562;[2]=57.71663284301758;[3]=64.031494140625;};
+locked=false;cframe={[1]=-180.67129516601562;[2]=57.71663284301758;[3]=64.031494140625;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+shape="Block";size={[1]=152.75;[2]=121.43321228027344;[3]=0.001000046730041504;};
+};
+}
